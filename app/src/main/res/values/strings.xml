@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">About_Me</string>
+    <string name="name">Tisanthan Panchadsaram</string>
+    <string name="star_image">starImage</string>
+    <string name="layout">cont_layout</string>
+<!--    <String name="bio">Hi , I'm tisanthan.-->
+<!--    \n\n I have to say something about myself.-->
+<!--    \n who is positive about every aspect of life.-->
+<!--    \n\n ain in summer, leaves in autumn, and snow in winter.-->
+<!--    \n Les Miserable", or like Roman Roland who wrote-->
+<!--    \n are interested in knowing more, read my-->
+<!--    \n he beautiful west lake in Hangzhou, I like the flat-->
+<!--    \n wind coming from the ocean. I like to look at the clouds in the sky-->
+<!--    \n\n They have influenced millions of people through their books.-->
+<!--    \n snow in winter. I like to sleep early, I like to get up late;-->
+<!--    \n  nowhere close to these people, yet. I am just someone </String>-->
+    <string name="bio">HI Tisanthan.
+        \n I am a person who is positive about every aspect of
+        \n\n life. There are many things I like to do, to see,
+        \n and to experience. I like to read,
+        \n I like to write; I like to think, I like to dream; I
+        \n like to talk, I like to listen.
+        \n I like to see the sunrise in the morning, I like
+        \n to see the moonlight at night; I like to
+        \n feel the music flowing on my face,
+        \n I like to smell the wind coming from the ocean.
+        \n I like to look at the clouds in the sky with a blank mind,
+        \n I like to do thought experiment when I cannot sleep in the middle of the night.
+        \n I like flowers in spring, rain in summer, leaves in autumn,
+        \n\n and snow in winter. I like to sleep early, I like to get up late;
+        \n I like to be alone,
+        \n I like to be surrounded by people.
+        \n I like country’s peace, I like metropolis’ noise;
+        \n I like the beautiful west lake in Hangzhou,
+        \n I like the flat cornfield in Champaign.
+        \n I like delicious food and comfortable shoes;
+        \n I like good books and romantic movies.
+        \n I like the land and the nature,
+        \n I like people. And, I like to laugh.
+    </string>
+    <string name="what_is_your_name">What is Your Name?</string>
+    <string name="done_buttton">done</string>
+</resources>
